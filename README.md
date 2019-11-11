@@ -1,0 +1,5 @@
+# Survey on 4th Generation District Heating 
+This repository contains the data used in the paper " District Heating Systems: An Analysis of Strengths, Weaknesses, Opportunities and Threats of the 4GDH "
+
+**Abstract**:
+Fourth-generation district heating networks (4GDH) can play a special role in the efficient and climate-friendly use of energy. In this study, we have examined the strengths, weaknesses, opportunities and threats (SWOT) of this innovative technology. Using a combination of qualitative and quantitative research methods, we assessed the SWOT-factors in terms of their importance. Among the factors that were weighted with the highest relative importance were the ability of 4GDH to serve as a label bundling and stimulating considerations about the further development of district heating systems and the increased value creation within the national economy through the inclusion of local, renewable energy sources. Moreover, the interviewed experts agreed that regulatory frameworks in the context of 4GDH have to be further developed.
